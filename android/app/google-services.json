@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732379683958",
+    "project_id": "ary-bol-geo",
+    "storage_bucket": "ary-bol-geo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732379683958:android:4d8c943dca90c594d85357",
+        "android_client_info": {
+          "package_name": "com.example.ary_bol_geo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732379683958-qt24ci94o2j56c5e44dcngau6endnb7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB17htBM9hIjBstUj_5z8zNE_285FVh-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732379683958-qt24ci94o2j56c5e44dcngau6endnb7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
